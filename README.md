@@ -1,4 +1,4 @@
-# Exam-Portal
+# Quiz-Platform
 
 git init
 git add .
